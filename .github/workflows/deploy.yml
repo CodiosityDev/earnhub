@@ -25,6 +25,10 @@ jobs:
           cd "$REPO_DIR"
           git fetch origin
           git reset --hard origin/main
+          php -r 'if (PHP_VERSION_ID < 80000 || !extension_loaded("mbstring")) { fwrite(STDERR, "CMS requires PHP 8+ with mbstring\n"); exit(1); }'
+          php -l admin/cms.php
+          php -l admin/index.php
+          php -l api/content.php
           mkdir -p "$WEB_ROOT"
           rsync -av --delete \
             --exclude='.git' \
@@ -32,5 +36,12 @@ jobs:
             --exclude='*.md' \
             --exclude='*.xlsx' \
             --exclude='.gitignore' \
+            --exclude='.env*' \
+            --exclude='.spawnvault-cms' \
+            --exclude='.tmp' \
+            --exclude='.impeccable' \
+            --exclude='node_modules' \
+            --exclude='/scripts/' \
+            --exclude='/tests/' \
             "$REPO_DIR"/ "$WEB_ROOT"/
           echo "Deploy selesai!"

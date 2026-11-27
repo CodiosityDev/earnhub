@@ -1,0 +1,6 @@
+.env
+.env.*
+.spawnvault-cms/
+.tmp/
+node_modules/
+.impeccable/review/

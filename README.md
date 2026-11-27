@@ -75,12 +75,32 @@ npx serve .
 
 Lalu buka `http://localhost:8000`.
 
+### CMS
+
+Halaman publik tetap HTML/JS. CMS di `/admin/` memerlukan **PHP 8+ dengan mbstring** untuk login dan penyimpanan di server.
+
+```bash
+php scripts/setup-cms.php --username=spawnvault_admin
+php -S 127.0.0.1:8786 -t .
+```
+
+Setup menampilkan password acak sekali dan menyimpan hash di folder `.spawnvault-cms` **di luar folder website**. Buka `http://127.0.0.1:8786/admin/` untuk menambah, mengedit, memindahkan kategori, dan menghapus kartu platform, serta mengedit teks Indonesia/Inggris dan tombol Prove. Setup tidak menimpa akun yang sudah ada.
+
+Panduan aktivasi VPS, reset password, dan backup: [docs/cms.md](docs/cms.md).
+
+Pemeriksaan CMS: `node --test tests/cms.test.cjs` (Node 18+ dan PHP diperlukan).
+
 ### Menambah card baru
+
+Melalui CMS: buka tab **Platform**, klik **Tambah kartu**, pilih kategori, isi detail, lalu simpan. Kartu tersimpan di data CMS privat dan muncul pada halaman publik setelah dimuat ulang. Pada editor kartu, pilihan **Kategori** digunakan untuk memindahkan kartu dan **Hapus kartu ini** membuka konfirmasi penghapusan.
+
+Untuk menambah kartu bawaan melalui source:
 
 1. Tambahkan `<div class="card">` di section yang sesuai pada `index.html`
 2. Set `data-effort` (`very-low` | `low` | `medium`) dan `data-payout` (`paypal` | `idr` | `crypto-pay`, dipisah spasi jika lebih dari satu)
 3. Tambahkan deskripsi terjemahan di `app.js` (`T.en` dan `T.id`)
 4. Update `ItemList` JSON-LD di `index.html`
+5. Agar kartu bisa diedit lewat CMS, beri `data-cms-card` yang unik dan tambahkan record kartu serta terjemahannya di `data/content.default.json`
 
 ### Menambah bahasa
 

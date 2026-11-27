@@ -1,0 +1,941 @@
+{
+  "proof": {
+    "url": "https://vt.tiktok.com/ZSpKY6vhf/",
+    "label": {
+      "id": "Prove",
+      "en": "Prove"
+    },
+    "note": {
+      "id": "Lihat bukti pembayaran AI Trainer di TikTok.",
+      "en": "View AI Trainer payment proof on TikTok."
+    }
+  },
+  "sections": {
+    "ai-trainer": "AI Trainer — Remote Work",
+    "top-picks": "Top Picks — Best to Start With",
+    "skill-based": "Skill-Based Work",
+    "passive": "Passive Income",
+    "invest": "Investment",
+    "games": "Games — Play to Earn",
+    "surveys": "Surveys — Share Your Opinion",
+    "crypto": "Crypto — Faucets & Mining",
+    "promos": "Promos & Discounts"
+  },
+  "cards": {
+    "platform-1": {
+      "section": "ai-trainer",
+      "name": {
+        "id": "Mercor",
+        "en": "Mercor"
+      },
+      "description": "card1-desc",
+      "payout": "Project-Based Pay",
+      "effort": "medium",
+      "payouts": "project",
+      "code": "",
+      "links": [
+        {
+          "url": "https://t.mercor.com/H7h7W",
+          "label": {
+            "id": "Apply to Mercor →",
+            "en": "Apply to Mercor →"
+          }
+        }
+      ]
+    },
+    "platform-2": {
+      "section": "ai-trainer",
+      "name": {
+        "id": "Micro",
+        "en": "Micro"
+      },
+      "description": "card2-desc",
+      "payout": "Project-Based Pay",
+      "effort": "medium",
+      "payouts": "project",
+      "code": "",
+      "links": [
+        {
+          "url": "https://refer.micro1.ai/referral/jobs?referralCode=389b0607-7748-426c-8520-76c0bd981cf3&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+          "label": {
+            "id": "Apply on Micro1 →",
+            "en": "Apply on Micro1 →"
+          }
+        }
+      ]
+    },
+    "platform-3": {
+      "section": "ai-trainer",
+      "name": {
+        "id": "Turing",
+        "en": "Turing"
+      },
+      "description": "card3-desc",
+      "payout": "Competitive Salary",
+      "effort": "medium",
+      "payouts": "salary",
+      "code": "",
+      "links": [
+        {
+          "url": "https://work.turing.com/r/WE-yT4N2L7",
+          "label": {
+            "id": "Apply on Turing →",
+            "en": "Apply on Turing →"
+          }
+        }
+      ]
+    },
+    "platform-4": {
+      "section": "ai-trainer",
+      "name": {
+        "id": "SME Careers",
+        "en": "SME Careers"
+      },
+      "description": "card4-desc",
+      "payout": "Expert Pay",
+      "effort": "medium",
+      "payouts": "project",
+      "code": "",
+      "links": [
+        {
+          "url": "https://sme.careers/apply?referral=5cc4d736-aa8e-4790-b1fd-554cb652f6d1",
+          "label": {
+            "id": "Apply on SME Careers →",
+            "en": "Apply on SME Careers →"
+          }
+        }
+      ]
+    },
+    "platform-5": {
+      "section": "top-picks",
+      "name": {
+        "id": "HoneyGain",
+        "en": "HoneyGain"
+      },
+      "description": "card5-desc",
+      "payout": "PayPal",
+      "effort": "very-low",
+      "payouts": "paypal",
+      "code": "FOREVC45FE",
+      "links": [
+        {
+          "url": "https://join.honeygain.com/FOREVC45FE",
+          "label": {
+            "id": "Join HoneyGain →",
+            "en": "Join HoneyGain →"
+          }
+        }
+      ]
+    },
+    "platform-6": {
+      "section": "top-picks",
+      "name": {
+        "id": "Pawns App",
+        "en": "Pawns App"
+      },
+      "description": "card6-desc",
+      "payout": "PayPal",
+      "effort": "very-low",
+      "payouts": "paypal",
+      "code": "7725819",
+      "links": [
+        {
+          "url": "https://pawns.app/?r=7725819",
+          "label": {
+            "id": "Join Pawns App →",
+            "en": "Join Pawns App →"
+          }
+        }
+      ]
+    },
+    "platform-7": {
+      "section": "top-picks",
+      "name": {
+        "id": "ShopBack",
+        "en": "ShopBack"
+      },
+      "description": "card8-desc",
+      "payout": "Cashback (IDR)",
+      "effort": "very-low",
+      "payouts": "idr",
+      "code": "DLa9G5",
+      "links": [
+        {
+          "url": "https://app.shopback.com/VFTpTuSx31b",
+          "label": {
+            "id": "Join ShopBack →",
+            "en": "Join ShopBack →"
+          }
+        }
+      ]
+    },
+    "platform-8": {
+      "section": "top-picks",
+      "name": {
+        "id": "Merge Cats",
+        "en": "Merge Cats"
+      },
+      "description": "card9-desc",
+      "payout": "OVO / Dana",
+      "effort": "low",
+      "payouts": "idr",
+      "code": "3xo967",
+      "links": [
+        {
+          "url": "https://dosr1htjv377z.cloudfront.net/invite.id.html?code=3xo967",
+          "label": {
+            "id": "Play Merge Cats →",
+            "en": "Play Merge Cats →"
+          }
+        }
+      ]
+    },
+    "platform-9": {
+      "section": "top-picks",
+      "name": {
+        "id": "Halo: Upload Struk",
+        "en": "Halo: Snap Receipts"
+      },
+      "description": "halo-desc",
+      "payout": "PayPal",
+      "effort": "low",
+      "payouts": "paypal",
+      "code": "EC33CA1D",
+      "links": [
+        {
+          "url": "https://halo-mini.humanlabs.world/r/EC33CA1D",
+          "label": {
+            "id": "Gabung Halo →",
+            "en": "Join Halo →"
+          }
+        }
+      ]
+    },
+    "platform-10": {
+      "section": "skill-based",
+      "name": {
+        "id": "Gimi",
+        "en": "Gimi"
+      },
+      "description": "card11-desc",
+      "payout": "Bank Transfer / USDT",
+      "effort": "medium",
+      "payouts": "idr crypto-pay",
+      "code": "",
+      "links": [
+        {
+          "url": "https://app.gimi.co/sign-up?code=RI-ENNX6Q9R53R6",
+          "label": {
+            "id": "Join Gimi →",
+            "en": "Join Gimi →"
+          }
+        }
+      ]
+    },
+    "platform-11": {
+      "section": "passive",
+      "name": {
+        "id": "HoneyGain",
+        "en": "HoneyGain"
+      },
+      "description": "card12-desc",
+      "payout": "PayPal",
+      "effort": "very-low",
+      "payouts": "paypal",
+      "code": "FOREVC45FE",
+      "links": [
+        {
+          "url": "https://join.honeygain.com/FOREVC45FE",
+          "label": {
+            "id": "Join HoneyGain →",
+            "en": "Join HoneyGain →"
+          }
+        }
+      ]
+    },
+    "platform-12": {
+      "section": "passive",
+      "name": {
+        "id": "Pawns App",
+        "en": "Pawns App"
+      },
+      "description": "card13-desc",
+      "payout": "PayPal",
+      "effort": "very-low",
+      "payouts": "paypal",
+      "code": "7725819",
+      "links": [
+        {
+          "url": "https://pawns.app/?r=7725819",
+          "label": {
+            "id": "Join Pawns App →",
+            "en": "Join Pawns App →"
+          }
+        }
+      ]
+    },
+    "platform-13": {
+      "section": "passive",
+      "name": {
+        "id": "ShopBack",
+        "en": "ShopBack"
+      },
+      "description": "card14-desc",
+      "payout": "Cashback (IDR)",
+      "effort": "very-low",
+      "payouts": "idr",
+      "code": "DLa9G5",
+      "links": [
+        {
+          "url": "https://app.shopback.com/VFTpTuSx31b",
+          "label": {
+            "id": "Join ShopBack →",
+            "en": "Join ShopBack →"
+          }
+        }
+      ]
+    },
+    "platform-14": {
+      "section": "passive",
+      "name": {
+        "id": "KLED",
+        "en": "KLED"
+      },
+      "description": "card15-desc",
+      "payout": "PayPal",
+      "effort": "low",
+      "payouts": "paypal",
+      "code": "A2G249YF",
+      "links": [
+        {
+          "url": "https://apps.apple.com",
+          "label": {
+            "id": "Search \"KLED\" on App Store →",
+            "en": "Search \"KLED\" on App Store →"
+          }
+        }
+      ]
+    },
+    "platform-15": {
+      "section": "invest",
+      "name": {
+        "id": "Bibit",
+        "en": "Bibit"
+      },
+      "description": "card16-desc",
+      "payout": "Investment Returns (IDR)",
+      "effort": "low",
+      "payouts": "idr",
+      "code": "33oxlxz",
+      "links": [
+        {
+          "url": "https://bibit.id",
+          "label": {
+            "id": "Open Bibit →",
+            "en": "Open Bibit →"
+          }
+        }
+      ]
+    },
+    "platform-16": {
+      "section": "invest",
+      "name": {
+        "id": "Superbank",
+        "en": "Superbank"
+      },
+      "description": "card17-desc",
+      "payout": "7.5% Interest p.a. (IDR)",
+      "effort": "low",
+      "payouts": "idr",
+      "code": "6QE43G",
+      "links": [
+        {
+          "url": "https://superbank.onelink.me/KsFY/9mjnjlaa",
+          "label": {
+            "id": "Open Superbank →",
+            "en": "Open Superbank →"
+          }
+        }
+      ]
+    },
+    "platform-17": {
+      "section": "games",
+      "name": {
+        "id": "Merge Cats",
+        "en": "Merge Cats"
+      },
+      "description": "card18-desc",
+      "payout": "OVO / Dana",
+      "effort": "low",
+      "payouts": "idr",
+      "code": "3xo967",
+      "links": [
+        {
+          "url": "https://dosr1htjv377z.cloudfront.net/invite.id.html?code=3xo967",
+          "label": {
+            "id": "Play Merge Cats →",
+            "en": "Play Merge Cats →"
+          }
+        }
+      ]
+    },
+    "platform-18": {
+      "section": "games",
+      "name": {
+        "id": "Test'em All",
+        "en": "Test'em All"
+      },
+      "description": "card19-desc",
+      "payout": "PayPal / Gift Cards",
+      "effort": "low",
+      "payouts": "paypal",
+      "code": "HsJPgOvb",
+      "links": [
+        {
+          "url": "https://testemall.online/invite/HsJPgOvb",
+          "label": {
+            "id": "Join Test'em All →",
+            "en": "Join Test'em All →"
+          }
+        }
+      ]
+    },
+    "platform-19": {
+      "section": "games",
+      "name": {
+        "id": "Halo: Upload Struk",
+        "en": "Halo: Snap Receipts"
+      },
+      "description": "halo-games-desc",
+      "payout": "PayPal",
+      "effort": "low",
+      "payouts": "paypal",
+      "code": "EC33CA1D",
+      "links": [
+        {
+          "url": "https://halo-mini.humanlabs.world/r/EC33CA1D",
+          "label": {
+            "id": "Gabung Halo →",
+            "en": "Join Halo →"
+          }
+        }
+      ]
+    },
+    "platform-20": {
+      "section": "games",
+      "name": {
+        "id": "Xworld",
+        "en": "Xworld"
+      },
+      "description": "card20-desc",
+      "payout": "Dana / GoPay / OVO / USDT",
+      "effort": "low",
+      "payouts": "idr crypto-pay",
+      "code": "",
+      "links": [
+        {
+          "url": "https://xworld.biz/id-ID/share/land?userId=805070236&ext=1",
+          "label": {
+            "id": "Join Xworld →",
+            "en": "Join Xworld →"
+          }
+        },
+        {
+          "url": "https://t.me/cariduitonlinetele",
+          "label": {
+            "id": "Telegram Version →",
+            "en": "Telegram Version →"
+          }
+        }
+      ]
+    },
+    "platform-21": {
+      "section": "games",
+      "name": {
+        "id": "Telegram Earning Games",
+        "en": "Telegram Earning Games"
+      },
+      "description": "card21-desc",
+      "payout": "TON / Crypto",
+      "effort": "low",
+      "payouts": "crypto-pay",
+      "code": "",
+      "links": [
+        {
+          "url": "https://t.me/cariduitonlinetele",
+          "label": {
+            "id": "Join Channel →",
+            "en": "Join Channel →"
+          }
+        }
+      ]
+    },
+    "platform-22": {
+      "section": "surveys",
+      "name": {
+        "id": "Pawns App",
+        "en": "Pawns App"
+      },
+      "description": "card22-desc",
+      "payout": "PayPal",
+      "effort": "low",
+      "payouts": "paypal",
+      "code": "7725819",
+      "links": [
+        {
+          "url": "https://pawns.app/?r=7725819",
+          "label": {
+            "id": "Join Pawns App →",
+            "en": "Join Pawns App →"
+          }
+        }
+      ]
+    },
+    "platform-23": {
+      "section": "surveys",
+      "name": {
+        "id": "ySense",
+        "en": "ySense"
+      },
+      "description": "card23-desc",
+      "payout": "PayPal / Gift Cards",
+      "effort": "low",
+      "payouts": "paypal",
+      "code": "126033029",
+      "links": [
+        {
+          "url": "https://www.ysense.com/?rb=126033029",
+          "label": {
+            "id": "Join ySense →",
+            "en": "Join ySense →"
+          }
+        }
+      ]
+    },
+    "platform-24": {
+      "section": "surveys",
+      "name": {
+        "id": "TopSurveys",
+        "en": "TopSurveys"
+      },
+      "description": "card24-desc",
+      "payout": "PayPal",
+      "effort": "low",
+      "payouts": "paypal",
+      "code": "BGA73A",
+      "links": [
+        {
+          "url": "https://topsurveys.app/register?ref=9ede326d-211c-48b4-873f-c108e02410a3",
+          "label": {
+            "id": "Join TopSurveys →",
+            "en": "Join TopSurveys →"
+          }
+        }
+      ]
+    },
+    "platform-25": {
+      "section": "surveys",
+      "name": {
+        "id": "Milieu Surveys",
+        "en": "Milieu Surveys"
+      },
+      "description": "card25-desc",
+      "payout": "GoPay / OVO / Dana",
+      "effort": "low",
+      "payouts": "idr",
+      "code": "sAqx6pZ",
+      "links": [
+        {
+          "url": "https://apple.co/2MmnprL",
+          "label": {
+            "id": "Download (iOS) →",
+            "en": "Download (iOS) →"
+          }
+        },
+        {
+          "url": "https://goo.gl/eTHTya",
+          "label": {
+            "id": "Download (Android) →",
+            "en": "Download (Android) →"
+          }
+        }
+      ]
+    },
+    "platform-26": {
+      "section": "surveys",
+      "name": {
+        "id": "Surveyon",
+        "en": "Surveyon"
+      },
+      "description": "card26-desc",
+      "payout": "PayPal / Dana / GoPay",
+      "effort": "low",
+      "payouts": "paypal idr",
+      "code": "P3324224",
+      "links": [
+        {
+          "url": "https://www.surveyon.com/invitation?code=P3324224",
+          "label": {
+            "id": "Join SurveyOn →",
+            "en": "Join SurveyOn →"
+          }
+        }
+      ]
+    },
+    "platform-27": {
+      "section": "crypto",
+      "name": {
+        "id": "SweatWallet & SweatCoin",
+        "en": "SweatWallet & SweatCoin"
+      },
+      "description": "card27-desc",
+      "payout": "SWEAT Token",
+      "effort": "very-low",
+      "payouts": "crypto-pay",
+      "code": "",
+      "links": [
+        {
+          "url": "https://swe.at/r/eon6Z4a9oW",
+          "label": {
+            "id": "Join SweatWallet →",
+            "en": "Join SweatWallet →"
+          }
+        },
+        {
+          "url": "https://swcapp.com/i/jesslynfelicia",
+          "label": {
+            "id": "SweatCoin →",
+            "en": "SweatCoin →"
+          }
+        }
+      ]
+    },
+    "platform-28": {
+      "section": "crypto",
+      "name": {
+        "id": "Robox",
+        "en": "Robox"
+      },
+      "description": "card28-desc",
+      "payout": "ROX Token",
+      "effort": "very-low",
+      "payouts": "crypto-pay",
+      "code": "2665921",
+      "links": [
+        {
+          "url": "https://robox.digital/i/2665921",
+          "label": {
+            "id": "Join Robox →",
+            "en": "Join Robox →"
+          }
+        }
+      ]
+    },
+    "platform-29": {
+      "section": "crypto",
+      "name": {
+        "id": "Cloud Mine Crypto",
+        "en": "Cloud Mine Crypto"
+      },
+      "description": "card29-desc",
+      "payout": "Bitcoin (BTC)",
+      "effort": "very-low",
+      "payouts": "crypto-pay",
+      "code": "3xLpJm97lgmJZ5O1",
+      "links": [
+        {
+          "url": "https://cloudminecrypto.com/?invite_code=3xLpJm97lgmJZ5O1",
+          "label": {
+            "id": "Join Cloud Mine →",
+            "en": "Join Cloud Mine →"
+          }
+        }
+      ]
+    },
+    "platform-30": {
+      "section": "crypto",
+      "name": {
+        "id": "XNO Faucet (get-xno)",
+        "en": "XNO Faucet (get-xno)"
+      },
+      "description": "card30-desc",
+      "payout": "XNO / Nano Token",
+      "effort": "very-low",
+      "payouts": "crypto-pay",
+      "code": "",
+      "links": [
+        {
+          "url": "https://get-xno.com/ref/695fcb8fad913a8d085d6e63",
+          "label": {
+            "id": "Claim XNO →",
+            "en": "Claim XNO →"
+          }
+        }
+      ]
+    },
+    "platform-31": {
+      "section": "promos",
+      "name": {
+        "id": "Qpon",
+        "en": "Qpon"
+      },
+      "description": "card31-desc",
+      "payout": "Vouchers / Discounts",
+      "effort": "very-low",
+      "payouts": "idr",
+      "code": "94E25N",
+      "links": [
+        {
+          "url": "https://qpon.id/platform/inviteFriends/friendActivity?inviteCode=94E25N&shareType=INVITE_LINK",
+          "label": {
+            "id": "Join Qpon →",
+            "en": "Join Qpon →"
+          }
+        }
+      ]
+    },
+    "platform-32": {
+      "section": "promos",
+      "name": {
+        "id": "Kopi Kenangan",
+        "en": "Kopi Kenangan"
+      },
+      "description": "card32-desc",
+      "payout": "50% Discount Voucher",
+      "effort": "very-low",
+      "payouts": "idr",
+      "code": "Q01J0RNYZ",
+      "links": [
+        {
+          "url": "https://web.kopikenangan.com/ref/Q01J0RNYZ",
+          "label": {
+            "id": "Claim 50% Off →",
+            "en": "Claim 50% Off →"
+          }
+        }
+      ]
+    }
+  },
+  "translations": {
+    "en": {
+      "hero-badge": "✦ Personally Tested — 100% Paying",
+      "hero-h1": "Turn Your Time<br>Into <em>Money</em>",
+      "hero-desc": "Passive apps, AI training jobs, games, and surveys — all in one place. Signing up through these links often unlocks a welcome bonus you won't get going directly.",
+      "hero-cta": "Explore AI Trainer Jobs →",
+      "trust-1": "✓ 100% paying — personally tested",
+      "trust-2": "✓ Signing up here unlocks bonus perks",
+      "trust-3": "✓ Always free to join",
+      "skip-to-content": "Skip to main content",
+      "stat-platforms": "Platforms",
+      "stat-free": "Free to Join",
+      "stat-categories": "Categories",
+      "stat-cost": "Upfront Cost",
+      "how-1-title": "Browse & pick your type",
+      "how-1-desc": "Filter by effort level or payout — passive, skill-based, games, and more.",
+      "how-2-title": "Click the link & get bonus perks",
+      "how-2-desc": "Signing up through these links often unlocks welcome bonuses, cashback boosts, or extra starting credits — you won't get these going directly.",
+      "how-3-title": "Sign up & start earning",
+      "how-3-desc": "No hidden fees. Most platforms start paying from day one — some within minutes.",
+      "filter-title": "Filter",
+      "filter-all": "Show All",
+      "filter-effort": "Effort",
+      "filter-very-low": "Very Low",
+      "filter-low": "Low Effort",
+      "filter-medium": "Medium",
+      "effort-very-low": "Very Low Effort",
+      "effort-low": "Low Effort",
+      "effort-medium": "Medium Effort",
+      "effort-medium-high": "Medium–High Effort",
+      "effort-flexible": "Flexible Hours",
+      "badge-top-pick": "⭐ Top Pick",
+      "badge-fast-cash": "⚡ Fast Cash",
+      "filter-payout": "Payout",
+      "filter-idr": "IDR",
+      "filter-category": "Category",
+      "cat-skill": "Skill-Based",
+      "cat-passive": "Passive",
+      "cat-invest": "Investment",
+      "cat-games": "Games",
+      "cat-surveys": "Surveys",
+      "cat-promos": "Promos",
+      "nav-skill": "Skill-Based",
+      "nav-picks": "Top Picks",
+      "nav-passive": "Passive",
+      "nav-invest": "Investment",
+      "nav-games": "Games",
+      "nav-surveys": "Surveys",
+      "nav-promos": "Promos",
+      "nav-more": "More",
+      "nav-about": "About",
+      "nav-faq": "FAQ",
+      "sec-ai-label": "Featured",
+      "sec-ai-title": "AI Trainer — Remote Work",
+      "sec-ai-desc": "Help train and improve AI models — work from anywhere, set your own hours",
+      "ai-intro": "<strong>Why AI Training?</strong> Companies pay real money to have humans review AI outputs, label data, and generate training examples. No specific degree needed — just attention to detail and good language skills. Flexible hours, fully remote.",
+      "sec-skill-title": "Skill-Based Work",
+      "sec-skill-desc": "Use your existing skills — content creation, social media, and more",
+      "sec-picks-title": "Top Picks — Best to Start With",
+      "sec-picks-desc": "Highest value, lowest friction — start here if you're new",
+      "sec-passive-title": "Passive Income",
+      "sec-passive-desc": "Apps that earn while you sleep — install once, earn continuously",
+      "sec-invest-title": "Investment",
+      "sec-invest-desc": "Mutual funds & high-yield savings — grow your money passively",
+      "sec-games-title": "Games — Play to Earn",
+      "sec-games-desc": "Earn real money while playing casual games on your phone",
+      "sec-surveys-title": "Surveys — Share Your Opinion",
+      "sec-surveys-desc": "Get paid for your thoughts — short surveys, consistent trickle income",
+      "sec-crypto-title": "Crypto — Faucets & Mining",
+      "sec-crypto-desc": "Free or low-effort crypto — values are volatile, for experimenters only",
+      "sec-promos-title": "Promos & Discounts",
+      "sec-promos-desc": "Save money on things you already buy",
+      "card1-desc": "Label data, review AI outputs, generate training sets for top AI companies. Pick your own projects, no fixed hours.",
+      "card2-desc": "AI-powered job matching for remote AI roles. Fast application — get matched to AI training projects based on your skill set.",
+      "card3-desc": "Join as a <strong>Business Analyst</strong> on a leading remote AI talent platform. Work with top tech companies — fully remote.",
+      "card4-desc": "Earn as a Subject Matter Expert contributing to AI projects. Leverage your specialized knowledge in consulting and advisory work.",
+      "card5-desc": "100% passive — install once and forget. Shares unused internet bandwidth in the background. Zero effort.",
+      "card6-desc": "Dual income: passive bandwidth sharing + optional surveys & games. Min $5 — one of the lowest payout thresholds.",
+      "card8-desc": "Earn cashback on purchases you'd make anyway. Shop at your favourite e-commerce stores — zero extra effort.",
+      "card9-desc": "Casual merge game — just play and earn. Cash out daily with no minimum hold period. Fastest cash-out on this list.",
+      "card11-desc": "Performance-based content rewards. Post on social media, earn based on real engagement your posts generate. Min. $10 payout.",
+      "card12-desc": "100% passive — install once and forget. Shares unused internet bandwidth in the background.",
+      "card13-desc": "Dual income: passive bandwidth sharing + optional surveys & games. Min $5 payout.",
+      "card14-desc": "Earn cashback on purchases you'd make anyway. Zero extra effort required.",
+      "card15-desc": "Sell your photos and earn money. Use ref code for a 10% bonus on all earnings. App Store only.",
+      "card16-desc": "Invest in mutual funds. Passive growth over time — ideal as a long-term savings tool.",
+      "card17-desc": "Deposit interest up to 7.5% p.a. No admin fees, free transfers anywhere. Bonus discounts on Grab.",
+      "card18-desc": "Casual merge game — just play and earn. Cash out daily, no minimum hold period.",
+      "card20-desc": "Complete small tasks & mini-games to earn tokens redeemable for e-wallets. Telegram mini-app version available.",
+      "card21-desc": "Trending Telegram mini-app games that pay in TON and other crypto tokens. Join the channel for ongoing updates on the latest games.",
+      "card22-desc": "Beyond bandwidth sharing — earn extra by completing surveys and mini-games. Min $5 payout.",
+      "card23-desc": "Survey & microtask platform. Guaranteed $0.01/day minimum from the daily survey — trickle income that adds up.",
+      "card24-desc": "Always pays — even if you only complete half a survey. No mid-survey disqualifications.",
+      "card25-desc": "More like a quiz than a boring survey — much less tedious. Enter the code after joining for bonus points.",
+      "card26-desc": "Global paid survey platform — complete surveys and earn rewards. Use invitation code to get a sign-up bonus when you join.",
+      "card27-desc": "Free crypto from walking — steps you take every day. SweatCoin tracks your steps; SweatWallet converts them to SWEAT tokens you can hold or sell.",
+      "card28-desc": "Mining-style platform rewarding ROX tokens. Runs passively in the background — set up once and collect.",
+      "card29-desc": "App-based Bitcoin mining. Collect BTC rewards in the background. Bonus up to 10% when joining via our link.",
+      "card30-desc": "Free XNO/Nano token faucet. Claim tokens for free — no cost, no mining, just click and collect.",
+      "card31-desc": "Voucher & promo discount platform for Indonesia. Sign up via our link and enjoy various attractive deals instantly.",
+      "card32-desc": "Claim a 50% discount voucher from Kopi Kenangan. Click the link and claim instantly — no sign-up hassle.",
+      "halo-name": "Halo: Snap Receipts",
+      "halo-desc": "Play mini games inside the Halo app, collect rewards, then cash out to PayPal.",
+      "halo-effort": "Low Effort",
+      "halo-tag-receipts": "Receipts",
+      "halo-cta": "Join Halo →",
+      "footer-main": "<strong>SpawnVault</strong> — All platforms personally tested and confirmed paying. Always free to join.",
+      "footer-sub": "Crypto values are volatile. Earnings vary by usage and region. © 2025",
+      "card19-desc": "Test mobile games, earn points from playtime and feedback, then redeem for PayPal cash or gift cards.",
+      "halo-games-desc": "Play mini games inside the Halo app, collect rewards, then cash out to PayPal."
+    },
+    "id": {
+      "hero-badge": "✦ Dicoba Sendiri — 100% Terbukti Bayar",
+      "hero-h1": "Ubah Waktumu<br>Jadi <em>Uang</em>",
+      "hero-desc": "Aplikasi pasif, kerja AI trainer, game, dan survei — semua di satu tempat. Daftar lewat link ini sering dapat bonus yang tidak ada kalau daftar langsung.",
+      "hero-cta": "Lihat AI Trainer Jobs →",
+      "trust-1": "✓ 100% terbukti bayar — dicoba sendiri",
+      "trust-2": "✓ Daftar di sini dapat bonus ekstra",
+      "trust-3": "✓ Selalu gratis untuk bergabung",
+      "skip-to-content": "Lewati ke konten utama",
+      "stat-platforms": "Platform",
+      "stat-free": "Gratis Daftar",
+      "stat-categories": "Kategori",
+      "stat-cost": "Modal Awal",
+      "how-1-title": "Pilih sesuai tipe kamu",
+      "how-1-desc": "Filter berdasarkan level usaha atau metode pembayaran — pasif, skill-based, game, dan lainnya.",
+      "how-2-title": "Klik link & dapat bonus",
+      "how-2-desc": "Daftar lewat link ini sering membuka welcome bonus, cashback ekstra, atau kredit awal — tidak akan kamu dapat kalau daftar langsung.",
+      "how-3-title": "Daftar & mulai cuan",
+      "how-3-desc": "Tidak ada biaya tersembunyi. Kebanyakan platform mulai bayar dari hari pertama.",
+      "filter-title": "Filter",
+      "filter-all": "Tampilkan Semua",
+      "filter-effort": "Usaha",
+      "filter-very-low": "Sangat Rendah",
+      "filter-low": "Rendah",
+      "filter-medium": "Menengah",
+      "effort-very-low": "Usaha Sangat Rendah",
+      "effort-low": "Usaha Rendah",
+      "effort-medium": "Usaha Menengah",
+      "effort-medium-high": "Usaha Menengah–Tinggi",
+      "effort-flexible": "Jam Fleksibel",
+      "badge-top-pick": "⭐ Pilihan Terbaik",
+      "badge-fast-cash": "⚡ Cepat Cair",
+      "filter-payout": "Pembayaran",
+      "filter-idr": "Rupiah",
+      "filter-category": "Kategori",
+      "cat-skill": "Skill-Based",
+      "cat-passive": "Pasif",
+      "cat-invest": "Investasi",
+      "cat-games": "Game",
+      "cat-surveys": "Survei",
+      "cat-promos": "Promo",
+      "nav-skill": "Skill-Based",
+      "nav-picks": "Terbaik",
+      "nav-passive": "Pasif",
+      "nav-invest": "Investasi",
+      "nav-games": "Game",
+      "nav-surveys": "Survei",
+      "nav-promos": "Promo",
+      "nav-more": "Lainnya",
+      "nav-about": "Tentang",
+      "nav-faq": "FAQ",
+      "sec-ai-label": "Unggulan",
+      "sec-ai-title": "AI Trainer — Kerja Remote",
+      "sec-ai-desc": "Bantu melatih model AI — kerja dari mana saja, atur jam sendiri",
+      "ai-intro": "<strong>Kenapa AI Training?</strong> Perusahaan membayar untuk review output AI, pelabelan data, dan pembuatan contoh training. Tidak perlu gelar khusus — cukup teliti dan kemampuan bahasa yang baik. Jam fleksibel, full remote.",
+      "sec-skill-title": "Kerja Berbasis Keahlian",
+      "sec-skill-desc": "Manfaatkan skill yang sudah kamu punya — konten, sosmed, dan lainnya",
+      "sec-picks-title": "Pilihan Terbaik",
+      "sec-picks-desc": "Nilai tertinggi, paling mudah dimulai — mulai dari sini kalau kamu baru",
+      "sec-passive-title": "Penghasilan Pasif",
+      "sec-passive-desc": "Aplikasi yang cuan saat kamu tidur — install sekali, terus menghasilkan",
+      "sec-invest-title": "Investasi",
+      "sec-invest-desc": "Reksa dana & tabungan berbunga tinggi — uangmu tumbuh sendiri",
+      "sec-games-title": "Game — Main Sambil Cuan",
+      "sec-games-desc": "Hasilkan uang nyata sambil main game kasual di ponselmu",
+      "sec-surveys-title": "Survei — Bagikan Pendapatmu",
+      "sec-surveys-desc": "Dibayar untuk pendapatmu — survei singkat, penghasilan rutin",
+      "sec-crypto-title": "Kripto — Faucet & Mining",
+      "sec-crypto-desc": "Kripto gratis atau usaha rendah — nilai fluktuatif, untuk yang suka eksperimen",
+      "sec-promos-title": "Promo & Diskon",
+      "sec-promos-desc": "Hemat untuk hal-hal yang sudah biasa kamu beli",
+      "card1-desc": "Label data, review output AI, dan buat dataset training untuk perusahaan AI besar. Pilih proyek sendiri, tanpa jam kerja tetap.",
+      "card2-desc": "Platform pencocokan kerja AI remote. Daftar cepat dan cocokkan skill kamu dengan proyek AI training.",
+      "card3-desc": "Bergabung sebagai <strong>Business Analyst</strong> di platform talenta AI remote. Kerja dengan perusahaan teknologi top, full remote.",
+      "card4-desc": "Dapatkan penghasilan sebagai Subject Matter Expert untuk proyek AI. Pakai pengetahuan spesialismu untuk konsultasi dan advisory.",
+      "card5-desc": "100% pasif — install sekali lalu biarkan jalan. Membagikan bandwidth internet tidak terpakai di background. Tanpa effort.",
+      "card6-desc": "Dua sumber cuan: bandwidth pasif + survei dan game opsional. Minimum payout $5, termasuk yang paling rendah.",
+      "card8-desc": "Dapat cashback dari belanja yang memang sudah kamu lakukan. Belanja di e-commerce favorit, tanpa effort tambahan.",
+      "card9-desc": "Game merge kasual — tinggal main dan kumpulkan uang. Bisa cash out harian tanpa masa tunggu minimum. Paling cepat cair di list ini.",
+      "card11-desc": "Reward konten berbasis performa. Posting di media sosial dan dibayar berdasarkan engagement nyata dari post kamu. Minimum payout $10.",
+      "card12-desc": "100% pasif — install sekali lalu biarkan jalan. Membagikan bandwidth internet tidak terpakai di background.",
+      "card13-desc": "Dua sumber cuan: bandwidth pasif + survei dan game opsional. Minimum payout $5.",
+      "card14-desc": "Dapat cashback dari belanja yang memang sudah kamu lakukan. Tidak perlu effort tambahan.",
+      "card15-desc": "Jual foto dan dapat uang. Pakai kode referral untuk bonus 10% dari semua penghasilan. Khusus App Store.",
+      "card16-desc": "Investasi di reksa dana. Pertumbuhan pasif jangka panjang, cocok untuk tabungan masa depan.",
+      "card17-desc": "Bunga tabungan hingga 7,5% per tahun. Tanpa biaya admin, gratis transfer ke mana saja, plus diskon Grab.",
+      "card18-desc": "Game merge kasual — tinggal main dan kumpulkan uang. Bisa cash out harian, tanpa masa tunggu minimum.",
+      "card20-desc": "Selesaikan task kecil dan mini-game untuk mendapat token yang bisa ditukar ke e-wallet. Versi mini-app Telegram juga tersedia.",
+      "card21-desc": "Game mini-app Telegram yang sedang tren dan membayar TON atau token kripto lain. Masuk channel untuk update game terbaru.",
+      "card22-desc": "Selain sharing bandwidth, kamu bisa tambah cuan lewat survei dan mini-game. Minimum payout $5.",
+      "card23-desc": "Platform survei dan microtask. Ada minimum harian $0,01 dari daily survey, kecil tapi konsisten.",
+      "card24-desc": "Tetap dibayar meski cuma menyelesaikan setengah survei. Tidak ada diskualifikasi di tengah survei.",
+      "card25-desc": "Rasanya lebih seperti kuis daripada survei membosankan. Masukkan kode setelah daftar untuk bonus poin.",
+      "card26-desc": "Platform survei global berbayar. Selesaikan survei dan dapat reward. Pakai invitation code untuk bonus saat daftar.",
+      "card27-desc": "Kripto gratis dari jalan kaki sehari-hari. SweatCoin melacak langkahmu, lalu SweatWallet mengubahnya menjadi token SWEAT yang bisa disimpan atau dijual.",
+      "card28-desc": "Platform mining-style yang memberi reward token ROX. Berjalan pasif di background, set up sekali lalu klaim.",
+      "card29-desc": "Mining Bitcoin berbasis aplikasi. Kumpulkan reward BTC di background. Bonus hingga 10% saat daftar lewat link ini.",
+      "card30-desc": "Faucet XNO/Nano gratis. Klaim token tanpa biaya dan tanpa mining, cukup klik lalu kumpulkan.",
+      "card31-desc": "Platform voucher dan promo diskon untuk Indonesia. Daftar lewat link ini dan nikmati berbagai deal menarik.",
+      "card32-desc": "Klaim voucher diskon 50% dari Kopi Kenangan. Klik link dan klaim langsung, tanpa ribet daftar.",
+      "halo-name": "Halo: Upload Struk",
+      "halo-desc": "Main mini game di dalam app Halo, kumpulkan reward, lalu cash out ke PayPal.",
+      "halo-effort": "Usaha Rendah",
+      "halo-tag-receipts": "Struk",
+      "halo-cta": "Gabung Halo →",
+      "footer-main": "<strong>SpawnVault</strong> — Semua platform dicoba sendiri dan terbukti bayar. Selalu gratis untuk bergabung.",
+      "footer-sub": "Nilai kripto fluktuatif. Penghasilan bervariasi tergantung penggunaan dan wilayah. © 2025",
+      "card19-desc": "Test mobile games, earn points from playtime and feedback, then redeem for PayPal cash or gift cards.",
+      "halo-games-desc": "Main mini game di dalam app Halo, kumpulkan reward, lalu cash out ke PayPal."
+    }
+  }
+}
